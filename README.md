@@ -1,4 +1,5 @@
-﻿# ShellCodeFrame_x64 工程介绍
+﻿  =====================ShellCodeFrame_x64 ================
+  # ShellCodeFrame_x64 工程介绍
   
   项目详细介绍，查看“Windows平台下高级Shellcode编程技术.doc”
   
@@ -11,3 +12,7 @@
 
 
 配置 x64  插入汇编的VS环境。
+
+==============ShellCodeFrame_x86 工程介绍===========
+
+生成x86平台的shellcode的代码
